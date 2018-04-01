@@ -10,7 +10,7 @@ The park is mostly flat, obstacle-free concrete.
 
 ## Entrance
 
-The main entrance to the building features three sets of doors. The one on the far left appears to be motorized, but the button has not yet been installed (as of March 2018). The other two double doors open fully and will be propped open during favorable weather. If you are arriving for an event, someone will be inside the entrance to assist you.
+The main entrance to the building features three sets of doors. The one on the far left appears to be motorized, but the button has not yet been installed (as of March 2018). The other two double doors open fully and will be propped open during favorable weather. All of the doors open by pushing inward, not pulling. If you are arriving for an event, someone will be inside the entrance to assist you.
 
 ![A photo of the entrance to TMAC, with three arrows pointing to three sets of double doors](tmac-exterior.jpg "A photo of the entrance to TMAC, with three arrows pointing to three sets of double doors")
 
