@@ -1,4 +1,4 @@
-### Accessibility
+# Accessibility
 
 We strive to create a space that is accommodating and easy-to-use for people who use assistive devices.
 
